@@ -6,4 +6,3 @@ Screenshots of the project prototype:
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/8a2c4e56-a117-4195-9362-40e5272f6f22">
 <img width="783" alt="image" src="https://github.com/user-attachments/assets/cb6cd8e7-0c19-47e6-9c26-ba8da9b401a5">
 
-
